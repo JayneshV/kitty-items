@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/onflow/kitty-items/issues"
   },
-  "homepage": "https://github.com/onflow/kitty-items#readme",
+  "homepage": ".",
   "devDependencies": {
     "@babel/core": "^7.14.0",
     "@babel/preset-env": "^7.14.1",
